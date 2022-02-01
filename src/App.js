@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          반삽습니다와우
+          Learnzz
         </a>
       </header>
     </div>
